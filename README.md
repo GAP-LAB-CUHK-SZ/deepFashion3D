@@ -5,7 +5,7 @@
 # Download
 Please fill [the form](https://forms.gle/1SMrPHCyS3m7pkXM6) to get password for unzipping the compressed file.
 
-Google Drive: [[Google Drive]](https://twitter.com/home), to be uploaded  
+Google Drive: [[Google Drive]](https://github.com/kv2000/deepFashion3D/edit/master/README.md), to be uploaded  
 Baiduyun Drive: [[Baidu Drive]](https://pan.baidu.com/s/1MyPj02eMqSFOSlDRPc9ufg), Password:df3d
 
 <br>
