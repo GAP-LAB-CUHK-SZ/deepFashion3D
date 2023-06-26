@@ -19,7 +19,8 @@
 ---
 
 # News
-**2023-6-25** **Deep Fashion3D V2** is available, where the <strong>dense garment point clouds</strong> are equiped with <strong><font color=red>more accurate feature line annotation</font></strong>, <strong><font color=blue>registered mesh  with category-specific toplogy</font></strong> and <strong><font color=green>high-resolution texture maps</font></strong>! Click     <a href="https://kv2000.github.io/2023/06/18/deepFashion3DV2/"><strong>Here</strong></a> to browse the release note.
+**2023-6-25** **Deep Fashion3D V2** is available, where the <strong>dense garment point clouds</strong> are equiped with <strong><font color=red>more accurate feature line annotation</font></strong>, <strong><font color=blue>registered mesh  with category-specific toplogy</font></strong> and <strong><font color=green>high-resolution texture maps</font></strong>! Click     <a href="https://kv2000.github.io/2023/06/18/deepFashion3DV2/"><strong>Here</strong></a> to browse the release note.  
+
 **2020-8-24** **Deep Fashion3D** is released with garment models. Feature line annotations and garment pose annotations ~~will be released soon~~ are released. Click     <a href="https://kv2000.github.io/2020/03/25/deepFashion3DRevisited/"><strong>Here</strong></a> to browse the project page.
 
 ---
@@ -28,11 +29,11 @@
 You may find both **DeepFashion3D** and **Deep Fashion3D V2** in the following link. Please **[fill in the form](https://forms.gle/1SMrPHCyS3m7pkXM6)** to get password for unzipping the compressed file for **DeepFashion3D** and **Deep Fashion3D V2**.
 
 The download link for Deep Fashshion3D V2:  
-Google Drive: **[[Google Drive]](https://drive.google.com/drive/folders/1pwCQb4koOAr_Ocuz61ilBm2XPD6QGCu3?usp=sharing)**
+Google Drive: **[[Google Drive]](https://drive.google.com/drive/folders/1pwCQb4koOAr_Ocuz61ilBm2XPD6QGCu3?usp=sharing)**  
 Baiduyun Drive: **[[Baidu Drive]](https://pan.baidu.com/s/1mkb9sSnJMSx92Pw0enWCow)**, Password:df3d
 
 The download link for the original Deep Fashshion3D:  
-Google Drive: **[[Google Drive]](https://drive.google.com/drive/folders/1JWkrjoJk7ATBhtanNm6aUOhFswRYD1WP?usp=sharing)** 
+Google Drive: **[[Google Drive]](https://drive.google.com/drive/folders/1JWkrjoJk7ATBhtanNm6aUOhFswRYD1WP?usp=sharing)**   
 Baiduyun Drive: **[[Baidu Drive]](https://pan.baidu.com/s/1MyPj02eMqSFOSlDRPc9ufg)**, Password:df3d
 
 ---
