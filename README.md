@@ -164,13 +164,13 @@ Lower body clothes in Deep Fashion3D contain following types of annotations
 # Citation
 If you use Deep Fashion3D or Deep Fashion3D V2 in your work, please consider citing our paper! 
 ``` 
-@misc{zhu2020deep,
-    title={Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images},
-    author={Heming Zhu and Yu Cao and Hang Jin and Weikai Chen and Dong Du and Zhangye Wang and Shuguang Cui and Xiaoguang Han},
+@inproceedings{zhu2020deep,
+    title={Deep Fashion3D: A Dataset and Benchmark for 3D Garment Reconstruction from Single Images}, 
+    booktitle={Computer Vision -- ECCV 2020},
+    author={Heming, Zhu and Yu, Cao and Hang, Jin and Weikai, Chen and Dong, Du and Zhangye, Wang and Shuguang, Cui and Xiaoguang, Han},
     year={2020},
-    eprint={2003.12753},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+    publisher={Springer International Publishing},
+    pages={512--530},
+    isbn={978-3-030-58452-8}
 }
-
 ```
