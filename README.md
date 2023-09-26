@@ -105,6 +105,7 @@ For **long/short skirts**, Deep Fashion3D V2 contains following types of feature
 
 #### Garment Pose Annotations
 The garment pose annotations provided in Deep Fashion3D V2 follow the below structure. Each file contains the SMPL pose parameters, scale, and translation. 
+Please also checkout the discussion [here](https://github.com/GAP-LAB-CUHK-SZ/deepFashion3D/issues/12) regarding loading the pose annotations.
 ```
 deepFashion3DV2/pose_estimation
 |-- 1
