@@ -7,6 +7,8 @@
     ·
     <a href="https://gaplab.cuhk.edu.cn/pages/people"><strong>Hang Jin</strong></a>
     ·
+    <a href="https://chenweikai.github.io/"><strong>Weikai Chen</strong></a>
+    ·
     <a href="https://scholar.google.com/citations?hl=zh-CN&user=zYxSLfQAAAAJ&view_op=list_works&sortby=pubdate"><strong>Dong Du</strong></a>
     ·
     <a href="http://www.cad.zju.edu.cn/home/zywang/"><strong>Zhangye Wang</strong></a>
